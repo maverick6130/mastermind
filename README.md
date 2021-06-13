@@ -1,0 +1,2 @@
+# mastermind
+This repository contains implementation of a SAT encoding to solve the mastermind problem. The encoding focuses on minimizing the number of steps required to win the game. You can look up what mastermind is here. As it turns out, the encoding we used was very similar to the paper available here and since ours was a bit sub-optimal, we've used this paper to improve performance further.
